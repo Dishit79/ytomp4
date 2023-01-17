@@ -11,7 +11,7 @@ Like bro??? Who maintains those sites they give me videos at 480p even though I 
 
 ## Running
 
-To deploy this project you need to have deno installed and runn
+To deploy this project you need to have deno installed and run:
 
 ```bash
   deno run --allow-all main.ts
